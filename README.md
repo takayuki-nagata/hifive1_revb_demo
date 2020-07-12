@@ -2,5 +2,5 @@
 Zephyr on HiFive1 Rev B demo
 
 ~~~
-$ west build -b hifive_revb && west flash
+$ west build -b hifive1_revb && west flash
 ~~~
