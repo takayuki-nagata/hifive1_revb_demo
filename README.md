@@ -1,4 +1,4 @@
-# hifive1_revm_demo
+# hifive1_revb_demo
 Zephyr on HiFive1 Rev B demo
 
 ~~~
